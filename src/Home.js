@@ -1,6 +1,7 @@
 // WinnerDisplay.js
 
-import React, { useState, useEffect } from 'react';
+import React, { useEffect } from 'react';
+// import React, { useState, useEffect } from 'react';
 
 const WinnerDisplay = () => {
   // const [winner, setWinner] = useState('');
