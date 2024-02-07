@@ -7,7 +7,7 @@ import Home from './Home';
 function App() {
   return (
     <div className="App">
-      <h1>Fantasy FAS-WSL Super 2024</h1>
+      <h3>Fantasy FAS-WSL Super 2024</h3>
       <Home />
     </div>
   );

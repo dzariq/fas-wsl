@@ -25,7 +25,7 @@ const WinnerDisplay = () => {
 
   return (
     <div>
-      <h1>ON GOING</h1>
+      <h4>ON GOING</h4>
       {/* <p>{winner}</p> */}
     </div>
   );
